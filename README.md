@@ -8,6 +8,7 @@
 ---
 
 ### 🔍 About Me
+
 - 🎓 Passionate learner & developer diving deep into **AI & Machine Learning**
 - 🎧 Built a deep learning app that detects whether a song is **AI-generated or human-written**
 - 🧪 Experimenting with **LSTM**, **CNNs**, and **speech recognition models**
@@ -28,6 +29,7 @@
 ---
 
 ### 🚀 Projects I'm Proud Of
+
 - 🎤 **AI vs Real Song Classifier**  
   Deep learning model + Flask app that analyzes audio and predicts if the lyrics are AI-generated or written by a human.
 
@@ -48,6 +50,7 @@
 ---
 
 ### ⚡ Fun Fact
+
 > I turned a **musical curiosity** into a **machine learning challenge**, and built a model that listens to lyrics and says:  
 > “Nah, that one’s too robotic. Must be AI.” 🤖🎵
 
