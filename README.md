@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World! I'm Mohammad Shan, an AI Explorer from India 👋🏼:
 🤖 currently building a web app that classifies songs as **AI-generated or human-written**  
 🎓 graduated in AI, Robotics & Computer Commerce  
