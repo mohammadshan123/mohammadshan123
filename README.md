@@ -2,7 +2,7 @@
 <p align="center">🚀 AI Explorer | 🎵 Song Classifier Builder | 🧠 Machine Learning Enthusiast</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link-here.gif" alt="AI Music GIF" width="600"/>
+  <img src="[https://media.giphy.com/media/your-gif-link-here.gif](https://www.vecteezy.com/video/30950091-blue-corporate-background-loop-ai-generated)" alt="AI Music GIF" width="600"/>
 </p>
 
 ---
