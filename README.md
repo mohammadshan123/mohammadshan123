@@ -60,9 +60,4 @@
 mohammadshan123/mohammadshan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![snake gif](https://github.com/mohammadshan123/mohammadshan123/blob/output/github-contribution-grid-snake.gif)
-
-git add README.md
-git commit -m "Add GitHub Snake"
-git push origin main
 
