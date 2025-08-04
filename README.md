@@ -93,3 +93,12 @@ Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-g
 
 Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
+### 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadshan123/mohammadshan123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadshan123/mohammadshan123/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mohammadshan123/mohammadshan123/output/github-contribution-grid-snake.svg">
+</picture>
+
+
