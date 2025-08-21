@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Mohammad Shan!</h1>
-<p align="center">🚀 AI Explorer | 🎵 Song Classifier Builder | 🧠 Machine Learning Enthusiast</p>
+<p align="center">🚀 AI Explorer | 🧠 Machine Learning Enthusiast</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/your-gif-link-here.gif" alt="AI Music Demo" width="600"/>
